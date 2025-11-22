@@ -3,9 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/'
-
+  base: '/cg-calculator/'
 })
-export default defineConfig({
-  base: "/https:/cg-calculator/",
-});
